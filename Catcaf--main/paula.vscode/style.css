@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Playfair Display', serif;    
+}
+
+.cabeçalho {
+    background-color: #E69B5E;
+    color: #A8460F;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 18px 0;
+}
+
+.cabeçalho-imagem {
+    width: 20%;
+}
+
+.cabeçalho-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.local-imagem{
+    width: 28%;
+}
+
+.Local{
+    background-image: linear-gradient(#E69B5E,#ffffff);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.local-div-conteudo{
+    width: 35%;
+}
+
+.local-titulo{
+    padding: 24px 0;
+}
+
+.imagem-adoção {
+    width: 120px;
+}
+
+.gato-nome{
+    width: 120px;
+}
