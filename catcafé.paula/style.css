@@ -48,5 +48,16 @@ body{
 }
 
 .imagem-adoção {
-    width: 120px;
+    width: 200px;
+}
+
+.adoção-icone{
+    justify-content: center;
+    width: 20px;
+    padding: 4px 8px;
+}
+
+.adoção-div{
+    text-align: center;
+    padding: 16px 0;
 }
